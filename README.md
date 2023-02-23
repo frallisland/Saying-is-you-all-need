@@ -9,3 +9,4 @@ Some daily golden sentences of Mr. Guo, Mr. Cui.
 ## Mr. Cui
   1. “你什么时候死？”“死的时候死。”
   2. “一部分人没有打印准考证，一部分人起晚了，一部分人阳了，最后面只有我和ldj去考试了。”
+  3. “怎么写的？用手写的。”
